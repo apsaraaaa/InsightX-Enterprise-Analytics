@@ -1,11 +1,8 @@
-pip install `
-streamlit `
-pandas==2.1.4 `
-numpy==1.26.4 `
-scikit-learn `
-statsmodels `
-matplotlib `
-seaborn `
-plotly==5.22.0 `
-fpdf2
-
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+reportlab
+scikit-learn
+statsmodels
