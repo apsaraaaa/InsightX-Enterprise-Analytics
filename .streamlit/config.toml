@@ -1,0 +1,8 @@
+[theme]
+base = "dark"
+
+primaryColor = "#7C7CFF"              # Electric Violet
+backgroundColor = "#0A0A0F"           # Midnight Graphite
+secondaryBackgroundColor = "#12121A"  # Dark Graphite Panels
+textColor = "#EDEDED"                 # Cool White
+font = "sans serif"
